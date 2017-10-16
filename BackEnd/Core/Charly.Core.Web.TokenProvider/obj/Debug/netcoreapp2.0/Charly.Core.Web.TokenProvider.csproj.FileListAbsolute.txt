@@ -1,0 +1,9 @@
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.TokenProvider\bin\Debug\netcoreapp2.0\Charly.Core.Web.TokenProvider.deps.json
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.TokenProvider\bin\Debug\netcoreapp2.0\Charly.Core.Web.TokenProvider.dll
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.TokenProvider\obj\Debug\netcoreapp2.0\Charly.Core.Web.TokenProvider.csprojResolveAssemblyReference.cache
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.TokenProvider\obj\Debug\netcoreapp2.0\Charly.Core.Web.TokenProvider.csproj.CoreCompileInputs.cache
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.TokenProvider\obj\Debug\netcoreapp2.0\Charly.Core.Web.TokenProvider.AssemblyInfoInputs.cache
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.TokenProvider\obj\Debug\netcoreapp2.0\Charly.Core.Web.TokenProvider.AssemblyInfo.cs
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.TokenProvider\bin\Debug\netcoreapp2.0\Charly.Core.Web.TokenProvider.pdb
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.TokenProvider\obj\Debug\netcoreapp2.0\Charly.Core.Web.TokenProvider.dll
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.TokenProvider\obj\Debug\netcoreapp2.0\Charly.Core.Web.TokenProvider.pdb

@@ -1,0 +1,9 @@
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Entity\bin\Debug\netcoreapp2.0\Charly.Core.Web.Entity.deps.json
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Entity\bin\Debug\netcoreapp2.0\Charly.Core.Web.Entity.dll
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Entity\bin\Debug\netcoreapp2.0\Charly.Core.Web.Entity.pdb
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Entity\obj\Debug\netcoreapp2.0\Charly.Core.Web.Entity.csproj.CoreCompileInputs.cache
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Entity\obj\Debug\netcoreapp2.0\Charly.Core.Web.Entity.AssemblyInfoInputs.cache
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Entity\obj\Debug\netcoreapp2.0\Charly.Core.Web.Entity.AssemblyInfo.cs
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Entity\obj\Debug\netcoreapp2.0\Charly.Core.Web.Entity.dll
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Entity\obj\Debug\netcoreapp2.0\Charly.Core.Web.Entity.pdb
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Entity\obj\Debug\netcoreapp2.0\Charly.Core.Web.Entity.csprojResolveAssemblyReference.cache

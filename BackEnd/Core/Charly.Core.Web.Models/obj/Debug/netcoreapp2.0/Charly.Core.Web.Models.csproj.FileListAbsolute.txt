@@ -1,0 +1,9 @@
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Models\bin\Debug\netcoreapp2.0\Charly.Core.Web.Models.deps.json
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Models\bin\Debug\netcoreapp2.0\Charly.Core.Web.Models.dll
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Models\bin\Debug\netcoreapp2.0\Charly.Core.Web.Models.pdb
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Models\obj\Debug\netcoreapp2.0\Charly.Core.Web.Models.csproj.CoreCompileInputs.cache
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Models\obj\Debug\netcoreapp2.0\Charly.Core.Web.Models.AssemblyInfoInputs.cache
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Models\obj\Debug\netcoreapp2.0\Charly.Core.Web.Models.AssemblyInfo.cs
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Models\obj\Debug\netcoreapp2.0\Charly.Core.Web.Models.dll
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Models\obj\Debug\netcoreapp2.0\Charly.Core.Web.Models.pdb
+C:\Users\DGalvan\Desktop\Arquitectura\BackEnd\Core\Charly.Core.Web.Models\obj\Debug\netcoreapp2.0\Charly.Core.Web.Models.csprojResolveAssemblyReference.cache
